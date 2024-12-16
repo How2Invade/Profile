@@ -47,7 +47,7 @@ function App() {
 
             <div className="flex justify-center mt-12 animate-slide-up delay-500">
               <a 
-                href="https://wa.me/<9969282858>?text=<Hey Meet!! I hope you're doing well. I wanted to reach out and connect with you. Looking forward to hearing from you soon.  >
+                href="https://wa.me/919969282858?text=<Hey Meet!! I hope you're doing well. I wanted to reach out and connect with you. Looking forward to hearing from you soon.  >
 " 
                 target="_blank" 
                 rel="noopener noreferrer" 
